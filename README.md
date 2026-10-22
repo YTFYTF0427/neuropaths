@@ -48,7 +48,7 @@ and then add to your `.bashrc`
 Install the package with
 
 ```bash
-git clone git@github.com:Tripudium/neuropaths.git
+git clone git@github.com:YTFYTF0427/neuropaths.git
 cd neuropaths
 uv sync --frozen            # creates .venv and installs from uv.lock
 source .venv/bin/activate   # not scrictly necessary
